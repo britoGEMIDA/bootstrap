@@ -1,0 +1,24 @@
+h1 {
+    color: rgb(23, 79, 184);
+}
+button {
+    /*!importante - Altera a ordem da importância*/
+    /* background-color: rgb(23, 79, 184) !important; */
+}
+.btn-success {
+    background-color: red;
+}
+
+
+
+
+
+
+
+
+@media (min-width: 768px) {
+    h1{
+        color: red
+    }
+}
+    
